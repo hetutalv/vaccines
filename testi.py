@@ -29,7 +29,7 @@ def run():
 
 mydb = mysql.connector.connect(
     user='root', 
-    password='henu23011',
+    password='********',
     host='127.0.0.1',)
 
 def initDB():
