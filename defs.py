@@ -1,5 +1,5 @@
-from testi import mydb
-from testi import run
+from base import mydb
+from base import run
 import os
 from datetime import datetime
 from pandas import DataFrame
